@@ -1,4 +1,4 @@
-# Happy Cows 2
+# Happy Cows 3
 
 In this project I have implemented the Iterative Deepening Depth First Search algorithm to the happy cows framework (see happy cows 1)
 
